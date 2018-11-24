@@ -1,0 +1,4 @@
+rootProject.name = 'jdev'
+include 'algorithms'
+include 'patterns'
+
